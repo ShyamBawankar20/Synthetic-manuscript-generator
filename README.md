@@ -1,3 +1,4 @@
+https://huggingface.co/datasets/ShyamBawankar/synthetic-manuscript-generator
 # Synthetic Manuscript Generator
 
 An automated Python pipeline for generating synthetic historical manuscript folios with synchronized ground-truth annotations for OCR dataset creation.
